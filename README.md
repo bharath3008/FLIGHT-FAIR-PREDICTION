@@ -54,16 +54,10 @@ pip install -r requirements.txt
 ├── requirements.txt
 ```
 
-![one](https://github.com/Jim-Tony/Flight-Fare-Prediction/blob/c5dc744c688e15780972b2b2bef7a6f006592d62/First%20part.png?raw=true)
-<br><br>
-![two](https://github.com/Jim-Tony/Flight-Fare-Prediction/blob/c5dc744c688e15780972b2b2bef7a6f006592d62/Second%20part.png?raw=true)
-
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
-
 
 # Productionization
 
